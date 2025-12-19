@@ -104,7 +104,7 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
-              <Icon name="Snowflake" size={28} className="text-primary" />
+              <Icon name="Snowflake" size={28} className="text-secondary" />
               <span className="text-xl font-bold text-foreground">ХОЛОДПРОМ</span>
             </div>
             
